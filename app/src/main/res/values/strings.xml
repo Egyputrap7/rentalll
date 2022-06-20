@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">rentalll</string>
+    <string-array name="Barang">
+        <item>Tas Carier</item>
+        <item>Spatu gunung</item>
+        <item>Tenda</item>
+    </string-array>
+</resources>

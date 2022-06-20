@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271590400276",
+    "project_id": "rentalll",
+    "storage_bucket": "rentalll.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271590400276:android:271cf1dd423cf2e33c6201",
+        "android_client_info": {
+          "package_name": "com.example.rentalll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271590400276-17b3dkv4tgn4st4oscorptjr1ipgkghj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDExOUeXIB8YQgyuZC4SKHosdkaPBFZsaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271590400276-17b3dkv4tgn4st4oscorptjr1ipgkghj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
